@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @hellofromiqbal
 - 👀 I’m interested in Front-End Web Development
-- 🌱 I’m currently learning ReactJS and MongoDb
 - 💞️ I’m looking to collaborate with anyone
 - 📫 How to reach me: hellofromiqbal@gmail.com
